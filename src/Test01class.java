@@ -5,6 +5,7 @@ public class Test01class {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("ああわあ");
 		System.out.println("プリン");
+		System.out.println("プリン");
 	}
 
 }
